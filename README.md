@@ -68,6 +68,34 @@ full feature set:
 
 `generate_sample_data.py` produces a full example workbook for reference.
 
+## Screenshots
+
+All screenshots below were generated from the bundled synthetic sample data.
+
+### KPI Overview — True FPY, gauges, and FPY by department
+![KPI overview](docs/images/01_kpi_gauges.png)
+
+### Failure drivers — failures by department and stacked stage breakdown
+![Failure charts](docs/images/02_failure_charts.png)
+
+### Pareto analysis (80/20 rule)
+![Pareto analysis](docs/images/03_pareto.png)
+
+### SPC control chart — out-of-control detection
+![SPC control chart](docs/images/04_spc.png)
+
+### Sunburst / hierarchical failure breakdown
+![Sunburst view](docs/images/05_sunburst.png)
+
+### Repeat-offender dashboard — chronic Part + Station + Failure Code combos
+![Repeat offenders](docs/images/06_repeat_offenders.png)
+
+### Root-cause drill-down tree
+![Root cause drill-down](docs/images/07_drilldown.png)
+
+### Failure-analysis summary by department (editable Actions/Status)
+![FA summary](docs/images/08_fa_summary.png)
+
 ## How True FPY Is Computed
 
 ```

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Real data files — never commit proprietary exports
+FPY_YIELD_DATA.xlsx
+*_TEST_DATA.xlsx
+*.pbix
+PBI/
+
+# OS / editor
+Thumbs.db
+.vscode/
